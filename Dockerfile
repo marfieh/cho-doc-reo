@@ -1,2 +1,2 @@
-FROM  pantherxx/loganalytica:v2
+FROM  pantherxx/loganalytica:ie
 USER 10014
